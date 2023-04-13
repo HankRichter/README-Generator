@@ -1,4 +1,4 @@
-# Test
+# README Generator
   ## License:
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -14,15 +14,15 @@
   ### -[Questions](#questions)
 
   ## Description:
-  Test
+  This project is for creating a high quality README for your coding projects.
   ## Installation:
-  Test
+  Install node on your machine and run "node index.js" in a GitBash Terminal.
   ## Usage:
-  Test
+  This project can be used for creating a high quality readme for any project.
   ## Contribution:
-  Test
+  Myself
   ## Testing:
-  Test
+  N/A
   ## Questions:
-  - Github: [Test](https://github.com/Test)
-  - Email: [Test](mailto:user@example.com)
+  - Github: [HankRichter](https://github.com/HankRichter)
+  - Email: [hankrichter97@gmail.com](mailto:user@example.com)
